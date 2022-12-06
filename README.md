@@ -10,3 +10,8 @@ pretty cool ... to my friends it looks like hacking :)
 2. CSS
 3. JavaScript
 
+## What I've Done So Far
+
+- [HTML](https://codepen.io/CryptoPsych/pen/oNyvNmr)
+- [CSS](https://codepen.io/CryptoPsych/pen/VwddRNx)
+
